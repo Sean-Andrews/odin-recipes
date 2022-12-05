@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+ul, ol {
+    list-style-position: inside;
+    padding-right: 50px;
+}
+
+li {
+    margin-top: 15px;
+}
+
+#buffalo {
+    height: auto;
+    width: 50%;
+}
+
+#turkey {
+    width: 35%;
+    height: auto;
+}
+
+#enchilada {
+    width: 40%;
+    height: auto;
+}
